@@ -62,9 +62,11 @@ Feel free to use this code as a base for your own analysis — and if you improv
 
 ## Change the driver
 
+Use the 3-letter code for any F1 driver (like 'VER' for Verstappen, 'HAM' for Hamilton, etc.)
+
 To analyze a different driver, just change this line:
 
 ```python
 driver = 'TSU'  # Yuki Tsunoda
 
-Use the 3-letter code for any F1 driver (like 'VER' for Verstappen, 'HAM' for Hamilton, etc.)
+
