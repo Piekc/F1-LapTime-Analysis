@@ -44,6 +44,6 @@ https://github.com/Piekc/F1-LapTime-Analysis/blob/59f43c4115f279e159bfe60f3aa035
 
 1. Make sure you have Python installed
 2. Install FastF1 by opening your terminal and running: pip install -U fastf1
-3. Code example:
+3. Code example: https://github.com/Piekc/F1-LapTime-Analysis/blob/9422b9260bc106bfa254dec6e09a60c408d4f5bb/Yuki_analisis2.py 
 4. After writing the code open your terminal and run: python Name_of_your_file.py
 5. The Graph appears on screen
