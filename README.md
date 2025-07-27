@@ -47,3 +47,22 @@ https://github.com/Piekc/F1-LapTime-Analysis/blob/59f43c4115f279e159bfe60f3aa035
 3. Code example: https://github.com/Piekc/F1-LapTime-Analysis/blob/9422b9260bc106bfa254dec6e09a60c408d4f5bb/Yuki_analisis2.py 
 4. After writing the code open your terminal and run: python Name_of_your_file.py
 5. The Graph appears on screen
+
+If everything works, you'll see a graph with lap-by-lap performance.
+
+---
+
+## My thoughts
+
+This was my first F1 data project ever and I loved it.  
+I want to keep learning more about motorsport engineering and simulation.  
+Feel free to use this code as a base for your own analysis — and if you improve it or build something cool with it, I’d love to see it!
+
+---
+
+## Change the driver
+
+To analyze a different driver, just change this line:
+
+```python
+driver = 'TSU'  # Yuki Tsunoda
