@@ -32,6 +32,14 @@ But you can totally change the driver and session to whatever you want — it wo
 
 ---
 
+## My thoughts
+
+This was my first F1 data project ever and I loved it.  
+I want to keep learning more about motorsport engineering and simulation.  
+Feel free to use this code as a base for your own analysis — and if you improve it or build something cool with it, I’d love to see it!
+
+---
+
 ##  Output example
 
 Here’s a preview of the chart it generates:  
@@ -49,14 +57,6 @@ https://github.com/Piekc/F1-LapTime-Analysis/blob/59f43c4115f279e159bfe60f3aa035
 5. The Graph appears on screen
 
 If everything works, you'll see a graph with lap-by-lap performance.
-
----
-
-## My thoughts
-
-This was my first F1 data project ever and I loved it.  
-I want to keep learning more about motorsport engineering and simulation.  
-Feel free to use this code as a base for your own analysis — and if you improve it or build something cool with it, I’d love to see it!
 
 ---
 
