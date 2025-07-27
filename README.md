@@ -35,6 +35,7 @@ But you can totally change the driver and session to whatever you want — it wo
 ##  Output example
 
 Here’s a preview of the chart it generates:  
+https://github.com/Piekc/F1-LapTime-Analysis/blob/59f43c4115f279e159bfe60f3aa03560b9375441/Yuki2.png 
 
 
 ---
@@ -43,3 +44,6 @@ Here’s a preview of the chart it generates:
 
 1. Make sure you have Python installed
 2. Install FastF1 by opening your terminal and running: pip install -U fastf1
+3. Code example:
+4. After writing the code open your terminal and run: python Name_of_your_file.py
+5. The Graph appears on screen
