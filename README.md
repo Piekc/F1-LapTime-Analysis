@@ -14,7 +14,7 @@ But you can totally change the driver and session to whatever you want — it wo
 
 - Connects to the official F1 API using FastF1
 - Loads the race session data (lap times, pit stops, etc.)
-- Filters the data by a specific driver (in this case, 'TSU' = Yuki)
+- Filters the data by a specific driver (in this case, 'TSU' = Yuki Tsunoda)
 - Finds the **fastest lap**
 - Detects all **pit stop laps**
 - Creates a graph that shows:
